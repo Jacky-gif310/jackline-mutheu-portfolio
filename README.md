@@ -46,7 +46,7 @@ Bachelor of Science in Information Technology (BSIT)
 
 ## 📫 Contact Me
 
-Email: your-email@gmail.com  
+Email: mutheujackline976@gmail.com  
 LinkedIn: https://www.linkedin.com/in/jackline-mutheu-27ab01290/
 
 ---
