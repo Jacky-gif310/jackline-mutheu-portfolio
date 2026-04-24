@@ -1,13 +1,11 @@
-# Hi 👋 I'm Jackline Muthoki
-
-💻 Web Developer | Data Analytics Enthusiast  
-📍 Nairobi, Kenya  
-
-I am passionate about building web applications and using data analytics to support decision making.
+# Hi 👋 I'm Jackline Mutheu Muthoki
+# About me
+IT & Statistics Graduate | Data & Backend Developer
+Focused on building scalable, data-driven applications
 
 ---
 
-## 🚀 Skills
+## Skills
 
 - Python Programming
 -  PHP
