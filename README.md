@@ -9,7 +9,8 @@ I am passionate about building web applications and using data analytics to supp
 
 ## 🚀 Skills
 
-- PHP
+- Python Programming
+-  PHP
 - MySQL
 - JavaScript
 - HTML5
@@ -18,7 +19,7 @@ I am passionate about building web applications and using data analytics to supp
 - Data Analysis
 - Google Sheets
 - R Programming
-
+  
 ---
 
 ## 📊 Featured Project
